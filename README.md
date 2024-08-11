@@ -7,4 +7,5 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+<a href="https://crixsanti.github.io/easy-shopping/">crixsanti.github.io/easy-shopping</a>
 <img src="https://github.com/crixsanti/projeto-shopping-responsivo/blob/main/img/easy%20shopping%20responsivo.png?raw=true">
